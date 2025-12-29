@@ -1,0 +1,1 @@
+# Entorno sin dependencias externas; vacío a propósito.
